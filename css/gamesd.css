@@ -1,0 +1,14 @@
+.games{
+	background-image: url('../img/GAMES.png');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+	
+}
+
+body{
+	background-image: url('../img/man.jpg');
+	color: white; 
+
+}
