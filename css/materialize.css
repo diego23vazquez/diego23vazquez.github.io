@@ -2760,6 +2760,9 @@ video.responsive-video {
   right: 0;
   bottom: 0;
   z-index: -1;
+  background-position: center;
+  background-size: 100%;
+  height: 350px;
 }
 
 .parallax img {
