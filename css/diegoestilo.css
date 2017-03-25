@@ -1,0 +1,11 @@
+.opacidad {
+	opacity: 0.6;
+}
+#tab {
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    top: 35px;
+    left: 25px;
+    cursor: pointer;
+}
